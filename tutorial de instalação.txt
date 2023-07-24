@@ -1,0 +1,13 @@
+COMO FAZER A INSTALAÇÃO DO MEUTEMA
+---------
+
+
+vc vai no diretório: 
+
+C::/users/julio/AppData/Local/Programs/Microsoft VS CODE/ resources/app/extensions
+
+em extensions vc vai ver as extensções do vscode, os temas sao vistos como extençoes, até os padroes do vscode.
+
+agr é só botar a pasta theme-MEUTEMA
+
+quando vc abrir o vscode vai ter MEUTEMA nas opçoes de temas.
