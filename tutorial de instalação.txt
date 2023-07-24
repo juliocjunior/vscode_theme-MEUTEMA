@@ -8,6 +8,6 @@ C::/users/julio/AppData/Local/Programs/Microsoft VS CODE/ resources/app/extensio
 
 em extensions vc vai ver as extensções do vscode, os temas sao vistos como extençoes, até os padroes do vscode.
 
-agr é só botar a pasta theme-MEUTEMA
+agr é só botar a pasta theme-MEUTEMA em extensions.
 
 quando vc abrir o vscode vai ter MEUTEMA nas opçoes de temas.
