@@ -5,7 +5,7 @@ baixa todos os arquivos do repositório, bota tudo em uma pasta chamada theme-ME
 
 agr vc vai no diretório: 
 
-C::/users/julio/AppData/Local/Programs/Microsoft VS CODE/ resources/app/extensions
+C:\Users\julio\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions
 
 agr é só botar a pasta theme-MEUTEMA em extensions.
 
